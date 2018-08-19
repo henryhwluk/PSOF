@@ -1,7 +1,22 @@
 # PSOF软件截图
 
+
+
 ![屏幕](http://ono8dsrfw.bkt.clouddn.com/Screen.png)
 
+<img src="http://pic15.photophoto.cn/20100615/0006019058815826_b.jpg"  height="100" width="495">
+
+
+<div align="center">
+
+<img src="http://pp.myapp.com/ma_pic2/0/shot_42391053_1_1488499316/550" height="330" width="190" >
+
+<img src="http://pp.myapp.com/ma_pic2/0/shot_42391053_2_1488499316/550" height="330" width="190" >
+
+<img src="http://pp.myapp.com/ma_pic2/0/shot_42391053_3_1488499316/550" height="330" width="190" >
+
+ </div>
+ 
 ![登录注册](http://ono8dsrfw.bkt.clouddn.com/%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C.png)
 
 ![注册](http://ono8dsrfw.bkt.clouddn.com/%E6%B3%A8%E5%86%8C.png)
