@@ -9,11 +9,11 @@
 
 <div align="center">
 
-<img src="http://pp.myapp.com/ma_pic2/0/shot_42391053_1_1488499316/550" height="430" width="240" >
+<img src="http://pp.myapp.com/ma_pic2/0/shot_42391053_1_1488499316/550" height="430" width="250" >
 
-<img src="http://pp.myapp.com/ma_pic2/0/shot_42391053_2_1488499316/550" height="430" width="240" >
+<img src="http://pp.myapp.com/ma_pic2/0/shot_42391053_2_1488499316/550" height="430" width="250" >
 
-<img src="http://pp.myapp.com/ma_pic2/0/shot_42391053_3_1488499316/550" height="430" width="240" >
+<img src="http://pp.myapp.com/ma_pic2/0/shot_42391053_3_1488499316/550" height="430" width="250" >
 
  </div>
  
